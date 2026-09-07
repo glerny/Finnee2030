@@ -11,18 +11,15 @@ Finnee2030 is a MATLAB toolbox for **differential untargeted metabolomics** usin
                   - mzML files exported from your instrument or conversion software.\
                   - Scans must be in profile mode (not centroided).\
                   - MS1 full-scan data.\
-                  - If your data are currently in vendor format, convert them to mzML profile mode before using Finnee2030 (e.g., with [ProteoWizard msConvert](https://proteowizard.sourceforge.io/) or your instrument software).\
+                  - If your data are currently in vendor format, convert them to mzML profile mode before using Finnee2030 (e.g., with [ProteoWizard msConvert](https://proteowizard.sourceforge.io/) or your instrument software).
   
 ## Getting started ##
-+ **Download Finnee2030** \
++ **Download Finnee2030** 
                   - Clone or download the repository from [GitHub](https://github.com/glerny/Finnee2030/tree/main) \
-                  - Or download a specific release from the [Releases page](https://github.com/glerny/Finnee2030/releases).\
-
-+ **Add Finnee2030 to the MATLAB path** \
-                  - Add the main Finnee2030 folder and its subfolders to your [MATLAB path](https://www.mathworks.com/help/matlab/matlab_env/add-remove-or-reorder-folders-on-the-search-path.html).\
-
-+ **Prepare your data** \
+                  - Or download a specific release from the [Releases page](https://github.com/glerny/Finnee2030/releases).
++ **Add Finnee2030 to the MATLAB path** 
+                  - Add the main Finnee2030 folder and its subfolders to your [MATLAB path](https://www.mathworks.com/help/matlab/matlab_env/add-remove-or-reorder-folders-on-the-search-path.html).
++ **Prepare your data** 
                   - Export your LC-HRMS (or CE/GC-HRMS) data as mzML profile-scan files.\
-                  - Or use one of the test data files.\
-
-+ **Follow the tutorial**\
+                  - Or use one of the test data files.
++ **Follow the tutorial**
