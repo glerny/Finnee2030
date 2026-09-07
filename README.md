@@ -23,3 +23,41 @@ Finnee2030 is a MATLAB toolbox for **differential untargeted metabolomics** usin
                   - Export your LC-HRMS (or CE/GC-HRMS) data as mzML profile-scan files.\
                   - Or use one of the test data files.
 + **Follow the tutorial**
+
+## Getting help
+
+Finnee2030 is a research-driven project. Support is provided on a best-effort basis.
+
+- **Documentation**:  
+  Start with the [Finnee2030 wiki](YOUR_GITHUB_WIKI_URL) for installation, workflow, and examples.
+
+- **Issues**:  
+  Use [GitHub Issues](YOUR_GITHUB_ISSUES_URL) for:
+  - Bugs and installation problems.
+  - Feature requests.
+  - Data-format or compatibility questions.
+
+- **Discussions**:  
+  Use [GitHub Discussions](YOUR_GITHUB_DISCUSSIONS_URL) for:
+  - General questions about using Finnee2030.
+  - Ideas for new analyses or workflows.
+  - Sharing experiences and tips with other users.
+
+- **Website**:  
+  Additional information, news, and contact details are available at [finnee.org](https://finnee.org).
+
+For collaboration proposals or more detailed scientific discussions, please contact the project lead via email or through GitHub Discussions.
+
+## Maintainers and contributors
+
+**Project lead and main developer**  
+- **G. Erny** – [affiliation, e.g., CESPU, Portugal]  
+  Responsible for overall design, development, and maintenance of Finnee and Finnee2030.
+
+**Contributors**  
+Contributions to Finnee2030 may include code, documentation, example data, testing, and scientific input. Contributors are acknowledged in the repository and on the [finnee.org – About Us](https://finnee.org/about-us) page.
+
+If you have contributed significantly and are not listed, or if you would like your contribution to be acknowledged, please open an issue or contact the project lead.
+
+**Funding and supporting projects**  
+Development of Finnee and Finnee2030 has been supported by various research projects and institutions. Details are provided on the [finnee.org – About Us](https://finnee.org/about-us) page.
