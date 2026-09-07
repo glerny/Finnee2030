@@ -16,10 +16,10 @@ Finnee2030 is a MATLAB toolbox for **differential untargeted metabolomics** usin
   
 ## Getting started ##
 1. Download Finnee2030\
-+ Clone or download the repository from GitHub: https://github.com/YOUR_USERNAME/finnee2030
-+ Or download a specific release from the Releases page.
+              - Clone or download the repository from GitHub: https://github.com/YOUR_USERNAME/
+               - Or download a specific release from the Releases page.
 
-2. Add Finnee2030 to the MATLAB path
+3. Add Finnee2030 to the MATLAB path
 + Add the main Finnee2030 folder and its subfolders to your MATLAB path.
 
 3. Prepare your data
