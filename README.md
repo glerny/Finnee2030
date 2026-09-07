@@ -8,10 +8,11 @@ Finnee2030 is a MATLAB toolbox for **differential untargeted metabolomics** usin
                 - No additional commercial toolboxes are strictly required for basic use.\
                 - *Optional*: Parallel Computing Toolbox.
 
-+ **Data format**:
-                  - mzML files exported from your instrument or conversion software.
-                  - Scans must be in profile mode (not centroided).
-                  - MS1 full-scan data.
++ **Data format**:\
+                  - mzML files exported from your instrument or conversion software.\
+                  - Scans must be in profile mode (not centroided).\
+                  - MS1 full-scan data.\
                   - If your data are currently in vendor format, convert them to mzML profile mode before using Finnee2030 (e.g., with [ProteoWizard msConvert](https://proteowizard.sourceforge.io/) or your instrument software).
+
 
 
