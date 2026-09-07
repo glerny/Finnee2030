@@ -59,7 +59,11 @@ For collaboration proposals or more detailed scientific discussions, please cont
 ## Maintainers and contributors
 
 **Project lead and main developer**  
-- **G. Erny** – [affiliation, e.g., CESPU, Portugal]  
+- **Guillaume Laurent Erny**
+  - Associate Laboratory i4HBInstitute for Health and Bioeconomy, University Institute of Health Sciences-CESPU, Gandra 4585-116, Portugal;
+  - UCIBIO-Applied Molecular Biosciences Unit, Translational Toxicology Research Laboratory, UniversityInstitute of Health Sciences (1H-TOXRUN, IUCS-CESPU), Gandra 4585-116, Portugal;
+  - [orcid.org/0000-0003-2636-6740](https://orcid.org/0000-0003-2636-6740);
+      
   Responsible for overall design, development, and maintenance of Finnee and Finnee2030.
 
 **Contributors**  
