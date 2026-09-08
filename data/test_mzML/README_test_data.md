@@ -6,12 +6,12 @@ The test files distributed with the Finnee2030 toolbox are derived from two unal
 
 ### Original .raw files:
 The following files were used to make the mzML test files
-	- SC_20230617_aHILICp_FMS_Locke_Act8.raw (full scan mode)
-	- SC_20230617_aHILICp_DDA2_Locke_QC_13 (DDA)
+ - SC_20230617_aHILICp_FMS_Locke_Act8.raw (full scan mode)
+ - SC_20230617_aHILICp_DDA2_Locke_QC_13 (DDA)
 
 ### Test mzML data files
-Original raw files were converted to mzML with [msConvert](https://proteowizard.sourceforge.io/index.html). For profile mode MS scans, no filters were used. MS scans were converted to centroid if needed, using the **Peak Picking Filter** with the **Vendor Algorithm**. 
-	- **example0001_DDA_profile.mzML**: SC_20230617_aHILICp_DDA2_Locke_QC_13 converted to mzML file format with profile MS scans 
+Original raw files were converted to mzML with [msConvert](https://proteowizard.sourceforge.io/index.html). For profile mode MS scans, no filters were used. MS scans were converted to centroid if needed, using the **Peak Picking Filter** with the **Vendor Algorithm**.
+	- **example0001_DDA_profile.mzML**: SC_20230617_aHILICp_DDA2_Locke_QC_13 converted to mzML file format with profile MS scans
 	- **example0002_FS_profile.mzML**:  SC_20230617_aHILICp_FMS_Locke_Act8.raw converted to mzML file format with profile MS scans 
 	- **example0003_FS_centroid.mzML**: SC_20230617_aHILICp_FMS_Locke_Act8.raw converted to mzML file format with centroid MS scans
 
